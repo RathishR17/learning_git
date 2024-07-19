@@ -30,7 +30,9 @@ git push origin <branch>
 Pull changes from a remote repository:
 git pull origin <branch>
 
+clone a repository
 git clone repo url
+cd repository
 
 Create new Branch:
 git branch branchname
