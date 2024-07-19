@@ -29,3 +29,9 @@ git push origin <branch>
 
 Pull changes from a remote repository:
 git pull origin <branch>
+
+Create new Branch:
+git branch branchname
+
+to view history:
+git log   
