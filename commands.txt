@@ -37,5 +37,8 @@ cd repository
 Create new Branch:
 git branch branchname
 
+Switch to new branch 
+git checkout branchname
+
 to view history:
 git log   
